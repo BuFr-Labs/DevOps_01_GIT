@@ -1,0 +1,1 @@
+Vytvořen text file přes comand vi.
