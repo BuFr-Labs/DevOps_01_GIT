@@ -1,1 +1,3 @@
 Vytvořen text file přes comand vi.
+
+přidávám text z naklonovaného adresáře
