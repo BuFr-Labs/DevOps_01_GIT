@@ -1,4 +1,5 @@
-# Moje prvni repo
+# DevOps_01_GIT
+Repozitoř k 1. lekci
 
 # DevOps Úkol 01: Distribuovaný Git a Air-Gapped Workflow
 
